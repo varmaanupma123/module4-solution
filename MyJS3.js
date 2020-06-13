@@ -1,0 +1,2 @@
+yakoovGreeting.sayHello();
+jhonGreeting.sayGoodBye();
